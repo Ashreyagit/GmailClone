@@ -2,7 +2,7 @@
 
 # Gmail Clone
 
-
+##Preview of the UI
 
 
 ![image](https://drive.google.com/uc?export=view&id=11ZhY0Q3QAvwS6iu9hdWuGF97yQ4NjLky)
